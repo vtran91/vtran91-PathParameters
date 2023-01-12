@@ -1,4 +1,4 @@
-package com.revature;
+
 
 import static org.junit.Assert.assertTrue;
 
@@ -11,7 +11,7 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.revature.util.CommandLine;
+import util.CommandLine;
 
 import io.javalin.Javalin;
 
